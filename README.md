@@ -1,3 +1,3 @@
 # Robocopier
 
-Simple GUI application tht uses robocopier to mirror a source directory to a target directory.
+Simple Windows GUI application that uses robocopy to mirror a source directory to a target directory.
